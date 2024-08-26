@@ -115,7 +115,7 @@ const Medicine = () => {
           </div>
 
        <div className='w-full h-40    mt-1 flex justify-center items-center '>
-       <img src="https://s3-alpha-sig.figma.com/img/ac49/86a4/200e04b06515655e590ec47a2a7c8289?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y8RV5jmxNdwyfREPl~ZwRxxfUiySdzZXKUEDGj9nZ43OYPSNXhE~3F-aQ8~aXS2KcBlLSSBiTwnfN-rumSaod0Ew11LR~2pYAAttCJvUJ2OuOtlXT~qDBmbJ0ZvOYj3QetJRASrakFwTP1zN42SCzTmqj913RWru9KmLSN-M~kmgrSBTfw~yGgT1YiHYlEHlSwf7oVzI-fuKtjd5iGKgjXBj94Fq-h-rO2Ad94cRQA5nLk-ik4p4yPtz~7EnINrUJQZY0Lroi3rFxXGkC579oSJcOLBg0S9MR-oBMn5oR2UpyCQUOh5mvvq-01oi6mbkILkr-vHlLXvjE6DJYdT4VQ__" className='size-40' alt="" />
+       <img src="medicine.jpg" className='size-40' alt="" />
        </div>
   
      <div className='h-96 mt-3 bottom-0  border-t-2 border-cyan-200 bg-teal-100 p-6'>
@@ -200,7 +200,7 @@ className='w-1/3 border-2  border-cyan-300 h-full rounded-[30px_0px_30px_0px] ov
           </div>
 
        <div className='w-full h-40    mt-1 flex justify-center items-center '>
-       <img src="https://s3-alpha-sig.figma.com/img/ac49/86a4/200e04b06515655e590ec47a2a7c8289?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y8RV5jmxNdwyfREPl~ZwRxxfUiySdzZXKUEDGj9nZ43OYPSNXhE~3F-aQ8~aXS2KcBlLSSBiTwnfN-rumSaod0Ew11LR~2pYAAttCJvUJ2OuOtlXT~qDBmbJ0ZvOYj3QetJRASrakFwTP1zN42SCzTmqj913RWru9KmLSN-M~kmgrSBTfw~yGgT1YiHYlEHlSwf7oVzI-fuKtjd5iGKgjXBj94Fq-h-rO2Ad94cRQA5nLk-ik4p4yPtz~7EnINrUJQZY0Lroi3rFxXGkC579oSJcOLBg0S9MR-oBMn5oR2UpyCQUOh5mvvq-01oi6mbkILkr-vHlLXvjE6DJYdT4VQ__" className='size-40' alt="" />
+       <img src="medicine.jpg" className='size-40' alt="" />
        </div>
   
      <div className='h-96 mt-3 bottom-0  border-t-2 border-cyan-200 bg-teal-100 p-6'>
@@ -286,7 +286,7 @@ className='w-1/3 border-2  border-cyan-300 h-full rounded-[30px_0px_30px_0px] ov
           </div>
 
        <div className='w-full h-40    mt-1 flex justify-center items-center '>
-       <img src="https://s3-alpha-sig.figma.com/img/ac49/86a4/200e04b06515655e590ec47a2a7c8289?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y8RV5jmxNdwyfREPl~ZwRxxfUiySdzZXKUEDGj9nZ43OYPSNXhE~3F-aQ8~aXS2KcBlLSSBiTwnfN-rumSaod0Ew11LR~2pYAAttCJvUJ2OuOtlXT~qDBmbJ0ZvOYj3QetJRASrakFwTP1zN42SCzTmqj913RWru9KmLSN-M~kmgrSBTfw~yGgT1YiHYlEHlSwf7oVzI-fuKtjd5iGKgjXBj94Fq-h-rO2Ad94cRQA5nLk-ik4p4yPtz~7EnINrUJQZY0Lroi3rFxXGkC579oSJcOLBg0S9MR-oBMn5oR2UpyCQUOh5mvvq-01oi6mbkILkr-vHlLXvjE6DJYdT4VQ__" className='size-40' alt="" />
+       <img src="medicine.jpg" className='size-40' alt="" />
        </div>
   
      <div className='h-96 mt-3 bottom-0  border-t-2 border-cyan-200 bg-teal-100 p-6'>
@@ -369,7 +369,7 @@ className='w-1/3 border-2  border-cyan-300 h-full rounded-[30px_0px_30px_0px] ov
     </div>
 
  <div className='w-full h-40    mt-1 flex justify-center items-center '>
- <img src="https://s3-alpha-sig.figma.com/img/ac49/86a4/200e04b06515655e590ec47a2a7c8289?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y8RV5jmxNdwyfREPl~ZwRxxfUiySdzZXKUEDGj9nZ43OYPSNXhE~3F-aQ8~aXS2KcBlLSSBiTwnfN-rumSaod0Ew11LR~2pYAAttCJvUJ2OuOtlXT~qDBmbJ0ZvOYj3QetJRASrakFwTP1zN42SCzTmqj913RWru9KmLSN-M~kmgrSBTfw~yGgT1YiHYlEHlSwf7oVzI-fuKtjd5iGKgjXBj94Fq-h-rO2Ad94cRQA5nLk-ik4p4yPtz~7EnINrUJQZY0Lroi3rFxXGkC579oSJcOLBg0S9MR-oBMn5oR2UpyCQUOh5mvvq-01oi6mbkILkr-vHlLXvjE6DJYdT4VQ__" className='size-40' alt="" />
+ <img src="medicine.jpg" className='size-40' alt="" />
  </div>
 
 <div className='h-96 mt-3 bottom-0  border-t-2 border-cyan-200 bg-teal-100 p-6'>
@@ -451,7 +451,7 @@ className='w-1/3 border-2  border-cyan-300 h-full rounded-[30px_0px_30px_0px] ov
     </div>
 
  <div className='w-full h-40    mt-1 flex justify-center items-center '>
- <img src="https://s3-alpha-sig.figma.com/img/ac49/86a4/200e04b06515655e590ec47a2a7c8289?Expires=1725235200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Y8RV5jmxNdwyfREPl~ZwRxxfUiySdzZXKUEDGj9nZ43OYPSNXhE~3F-aQ8~aXS2KcBlLSSBiTwnfN-rumSaod0Ew11LR~2pYAAttCJvUJ2OuOtlXT~qDBmbJ0ZvOYj3QetJRASrakFwTP1zN42SCzTmqj913RWru9KmLSN-M~kmgrSBTfw~yGgT1YiHYlEHlSwf7oVzI-fuKtjd5iGKgjXBj94Fq-h-rO2Ad94cRQA5nLk-ik4p4yPtz~7EnINrUJQZY0Lroi3rFxXGkC579oSJcOLBg0S9MR-oBMn5oR2UpyCQUOh5mvvq-01oi6mbkILkr-vHlLXvjE6DJYdT4VQ__" className='size-40' alt="" />
+ <img src="medicine.jpg" className='size-40' alt="" />
  </div>
 
 <div className='h-96 mt-3 bottom-0  border-t-2 border-cyan-200 bg-teal-100 p-6'>
